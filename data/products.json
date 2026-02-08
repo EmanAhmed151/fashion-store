@@ -1,0 +1,93 @@
+
+
+[
+  {
+    "id": 1,
+    "brand": "LC",
+    "name": "White Blouse",
+    "price": 75,
+    "category": "clothes",
+    "image": "images/Frame 23.svg",
+    "desc": "Stylish blouse made from premium fabric for warmth and elegance.",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "brand": "LC",
+    "name": "White Shirt",
+    "price": 95,
+    "category": "clothes",
+    "image": "images/Frame 23 (1).svg",
+    "desc": "Elegant shirt perfect for winter outfits.",
+    "sizes": ["S","M", "L", "XL"],
+    "stock": 7
+  },
+  {
+    "id": 3,
+    "brand": "LC",
+    "name": "Oversized Jacket",
+    "price": 45,
+    "category": "clothes",
+    "image": "images/Frame 23 (2).svg",
+    "desc": "Soft oversized jacket for casual everyday looks.",
+    "sizes": ["S", "M", "L"],
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "brand": "LC",
+    "name": "Black Leather Jacket",
+    "price": 120,
+    "category": "clothes",
+    "image": "images/Frame 23 (3).svg",
+    "desc": "Trendy leather jacket for bold and modern style.",
+    "sizes": ["S","M", "L"],
+    "stock": 5
+  },
+  {
+    "id": 5,
+    "brand": "Zara",
+    "name": "Brown Jacket",
+    "price": 60,
+    "category": "shoes",
+    "image": "images/19.svg",
+    "desc": "Beautiful and elegant brown jacket .",
+    "sizes": ["S","M", "L"],
+    "stock": 12
+  },
+  {
+    "id": 6,
+    "brand": "Zara",
+    "name": "Brown Pants",
+    "price": 70,
+    "category": "shoes",
+    "image": "images/15.svg",
+    "desc": "Trendy pants for beautiful outfits.",
+    "sizes": ["S","M", "L"],
+    "stock": 9
+  },
+  {
+    "id": 7,
+    "brand": "Shein",
+    "name": "Jeans",
+    "price": 35,
+    "category": "bags",
+    "image": "images/555.svg",
+    "desc": "Cute jeans perfect for casual looks.",
+    "sizes": ["S","M", "L"],
+    "stock": 20
+  },
+  {
+    "id": 8,
+    "brand": "Shein",
+    "name": "Long Brown Jacket",
+    "price": 50,
+    "category": "bags",
+    "image": "images/18.svg",
+    "desc": "Spacious brown jacket for work and daily use.",
+    "sizes": ["S","M", "L"],
+    "stock": 14
+  }
+ 
+]
