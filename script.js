@@ -13,6 +13,8 @@ document.querySelectorAll(".pro").forEach(card => {
   card.onclick = () => {
     const id = card.dataset.id;
     if (id) window.location.href = `sproduct.html?id=${id}`;
+    console.log("hello");
+
   };
 });
 
